@@ -58,6 +58,8 @@
 		0856D05C2D136911005A3206 /* HoverZoomSafari.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HoverZoomSafari.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0856D0682D136911005A3206 /* HoverZoomSafari Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "HoverZoomSafari Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0856D0722D136911005A3206 /* HoverZoomSafari Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "HoverZoomSafari Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0856D0AF2D136986005A3206 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0856D0B02D136AC5005A3206 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -234,6 +236,8 @@
 				0856D06C2D136911005A3206 /* iOS (Extension) */,
 				0856D0762D136911005A3206 /* macOS (Extension) */,
 				0856D04B2D136911005A3206 /* Products */,
+				0856D0AF2D136986005A3206 /* README.md */,
+				0856D0B02D136AC5005A3206 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -470,6 +474,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5ML573747Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "HoverZoomSafari Extension";
@@ -500,6 +505,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5ML573747Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "HoverZoomSafari Extension";
@@ -533,6 +539,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5ML573747Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = HoverZoomSafari;
@@ -569,6 +576,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5ML573747Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = HoverZoomSafari;
